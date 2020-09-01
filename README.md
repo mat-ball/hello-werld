@@ -1,2 +1,9 @@
 # hello-werld
-tinkering with github
+
+Hello again,
+
+Sometimes you gotta jump in a few times to get comfy.
+
+Here be numbr two
+
+Krogman
